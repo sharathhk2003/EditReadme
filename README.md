@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SHARATH HK</h1>
-<h3 align="center">I am a BE student at JSS Science and Technology University,Mysuru, majoring in Computer Science And Engineering.</h3>
+<h3 align="center">I am a BE student pursuing Computer Science and Engineering at JSS Science and Technology University, Mysuru.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharathhk2003&label=Profile%20views&color=0e75b6&style=flat" alt="sharathhk2003" /> </p>
 
